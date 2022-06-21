@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kamangnt
 - 👀 I’m interested in data science, machine learning & AI.
+- wishing to become a data scientist.
 - 🌱 I’m currently learning IBM Data Science Professional Certificate on Coursera.
 - 📫 How to reach me: @tangkamann@gmail.com
 
